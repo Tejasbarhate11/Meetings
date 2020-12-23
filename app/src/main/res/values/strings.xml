@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Meetings</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="meetings">Meetings!</string>
+    <string name="email">Email</string>
+    <string name="you_example_com">you@example.com</string>
+    <string name="password">Password</string>
+    <string name="password_example">• • • • • • •</string>
+    <string name="sign_in">Sign in</string>
+    <string name="no_account">No account yet?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="we_need_a_few_details_to_get_your_account_ready">We need a few details to get your account ready</string>
+    <string name="first_name1">First Name</string>
+    <string name="first_name_ex">Tejas</string>
+    <string name="last_name">Last Name</string>
+    <string name="barhate">Barhate</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in_to_your_account">Sign in to your account</string>
+    <string name="sign_out">Sign out</string>
+    <string name="first_name">First Name</string>
+    <string name="log_out">Log out</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="do_you_want_to_sign_out">Do you want to sign out?</string>
+    <string name="sending_meeting_invitation">Sending Meeting Invitation</string>
+    <string name="incoming_meeting_invitation">Incoming Meeting Invitation</string>
+</resources>

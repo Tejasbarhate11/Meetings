@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100761507102",
+    "project_id": "meetings-2f233",
+    "storage_bucket": "meetings-2f233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100761507102:android:4c7d02e021d17f813fa50f",
+        "android_client_info": {
+          "package_name": "com.barhatetejas.meetings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100761507102-i3u89vfb4dd7c3fg09e8lmf4eo0rhe94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5T0_TriInd4o-eJOJh9P38U8vH-HD9Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100761507102-i3u89vfb4dd7c3fg09e8lmf4eo0rhe94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
